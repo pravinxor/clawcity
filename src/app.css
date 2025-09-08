@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+    --color-claw-yellow: #fffb44;
+    --color-claw-blue: #5fe7ff;
+    --color-claw-red: #fe6c6d;
+}
